@@ -1,8 +1,8 @@
-# go-grpc-service
+# go-service
 
 
 ```shell
-go mod init github.com/bagus123/go-grpc-service
+go mod init github.com/bagus123/go-service
 
 # add library
 go get -u github.com/golang/protobuf/proto
